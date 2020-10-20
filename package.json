@@ -1,5 +1,5 @@
 {
-  "name": "personalportfolio",
+  "name": "balas-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,5 +26,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baluspalanisamy/balas-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baluspalanisamy/balas-portfolio/issues"
+  },
+  "homepage": "https://github.com/baluspalanisamy/balas-portfolio#readme"
 }
